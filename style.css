@@ -27,7 +27,7 @@ html, body {
 }
 
 .left, .right {
-	background-color: lightblue;
+	background-color: darkblue;
 
 	margin: 5px;
 	max-width: 50%;
